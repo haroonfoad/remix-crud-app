@@ -39,6 +39,6 @@ Make sure to deploy the output of `npm run build`
 
 Uses bootstrap 5 for styling.
 
-# Owner
+## Contributer
 
-Haroon Nasher
+- Haroon Nasher
