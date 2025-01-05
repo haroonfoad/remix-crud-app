@@ -38,3 +38,7 @@ Make sure to deploy the output of `npm run build`
 ## Styling
 
 Uses bootstrap 5 for styling.
+
+# Owner
+
+Haroon Nasher
