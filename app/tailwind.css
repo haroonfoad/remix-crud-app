@@ -1,5 +1,5 @@
 @tailwind base;
-@tailwind components;
+/* @tailwind components;
 @tailwind utilities;
 
 html,
@@ -9,4 +9,4 @@ body {
   @media (prefers-color-scheme: dark) {
     color-scheme: dark;
   }
-}
+} */
