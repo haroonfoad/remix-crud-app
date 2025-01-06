@@ -42,7 +42,9 @@ export default function BookModal({
         <div className="modal-dialog">
           <div className="modal-content">
             <div className="modal-header">
-              <h5 className="modal-title">Edit Book</h5>
+              <h5 className="modal-title">
+                {currentBook.id ? "Edit Book" : "Add Book"}
+              </h5>
               <button
                 type="button"
                 className="btn-close"
